@@ -1,0 +1,15 @@
+{
+  "hostURL": "http://api-phara.astaservices.com/v1/",
+  "requestLanguage": "",
+  "autoRegisterToken": false,
+  "timeout": 60,
+  "retryOnTimeout": false,
+  "webServices":{
+    "ar": {
+      "get": "resource/graph/ar",
+      "create": "",
+      "update": "",
+      "delete": ""
+    }
+  }
+}

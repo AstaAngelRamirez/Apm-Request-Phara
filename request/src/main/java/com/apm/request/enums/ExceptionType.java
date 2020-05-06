@@ -1,0 +1,26 @@
+package com.apm.request.enums;
+
+/**
+ * Created by Ing. Oscar G. Medina Cruz on 22/05/18.
+ */
+public enum ExceptionType {
+    RESPONSE_EXCEPTION,
+    NO_INTERNET_CONNECTION,
+    NO_JSON_CONTENT,
+    INVALID_RESPONSE_CLASS,
+    UNKNOWN_EXCEPTION,
+    SECURITY,
+    COMPLETED_WITH_ERRORS,
+    NOT_MODIFIED,
+    BAD_REQUEST,
+    UNAUTHORIZED,
+    FORBIDDEN,
+    NOT_FOUND,
+    NOT_ACCEPTABLE,
+    GONE,
+    UNPROCESSABLE_ENTITY,
+    INTERNAL_SERVER_ERROR,
+    BAD_GATEWAY,
+    SERVICE_UNAVAILABLE,
+    GATEWAY_TIMEOUT
+}

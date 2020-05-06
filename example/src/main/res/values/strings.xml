@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APM. Project: Request</string>
+    <string name="complete_ws_ar">http://api-phara.astaservices.com/v1/resource/graph/ar</string>
+    <string name="ws_ar">resource/graph/ar</string>
+</resources>
